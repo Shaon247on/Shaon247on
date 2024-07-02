@@ -29,5 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaon247on&show_icons=true&locale=en" alt="shaon247on" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaon247on&" alt="shaon247on" /></p>
+<div align="center">
+  <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=shaon247on&" alt="shaon247on" /></p>
+</div>
  
