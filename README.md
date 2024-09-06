@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/svxBZG4/git-Banner.jpg" alt="MasterHead" />
+<!--   <img src="https://i.ibb.co.com/svxBZG4/git-Banner.jpg" alt="MasterHead" /> -->
 </div>
 <h2 align="center">🚀 About Me <br/> <br/>Hi 👋, I'm Md. Aminul Islam Shaon</h1>
 
