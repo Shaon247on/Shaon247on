@@ -1,5 +1,5 @@
 <div align="center">
-<!--   <img src="https://i.ibb.co.com/svxBZG4/git-Banner.jpg" alt="MasterHead" /> -->
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Cover" />
 </div>
 <h2 align="center">🚀 About Me <br/> <br/>Hi 👋, I'm Md. Aminul Islam Shaon</h1>
 
@@ -27,48 +27,48 @@
 
 <div align="left"> 
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="padding-left: 20px;/> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="margin-left: 20px;/> 
  </a> 
  
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="padding-left: 20px;/> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="margin-left: 20px;/> 
  </a> 
 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding-left: 20px;/> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-left: 20px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin-left: 20px;/> 
  </a> 
 
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="padding-left: 20px;/> 
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> 
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="margin-left: 20px;/> 
  </a> 
  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="padding-left: 20px;/> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="margin-left: 20px;/> 
  </a>
 
-  <a href="https://nextjs.org" target="_blank" rel="noreferrer" style="padding-left: 20px;">
-   <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="next.js" width="40" height="40" style="padding-left: 20px;/> 
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer" style="margin-left: 20px;">
+   <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="next.js" width="40" height="40" style="margin-left: 20px;/> 
  </a> 
  
- <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" style="padding-left: 20px;">
- <img src="https://i.pinimg.com/736x/42/cd/25/42cd25501a390eb118a803cd5a651414.jpg" alt="shadcn" width="40" height="40" style="padding-left: 20px;/> 
+ <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" style="margin-left: 20px;">
+ <img src="https://i.pinimg.com/736x/42/cd/25/42cd25501a390eb118a803cd5a651414.jpg" alt="shadcn" width="40" height="40" style="margin-left: 20px;/> 
  </a> 
 
- <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="padding-left: 20px;/> 
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="margin-left: 20px;"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-left: 20px;/> 
  </a> 
 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="padding-left: 20px;/> 
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-left: 20px;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin-left: 20px;/> 
  </a>    
  
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="padding-left: 20px;/> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-left: 20px;"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="margin-left: 20px;/> 
  </a> 
  
- <a href="https://www.prisma.io" target="_blank" rel="noreferrer" style="padding-left: 20px;">
-     <img src="https://i.pinimg.com/736x/db/6c/7e/db6c7efc8b743df5da9bb4a2f9605c73.jpg" alt="Prisma" width="40" height="40" style="padding-left: 20px;/> 
+ <a href="https://www.prisma.io" target="_blank" rel="noreferrer" style="margin-left: 20px;">
+     <img src="https://i.pinimg.com/736x/db/6c/7e/db6c7efc8b743df5da9bb4a2f9605c73.jpg" alt="Prisma" width="40" height="40" style="margin-left: 20px;/> 
    </a> 
    
 </div>
