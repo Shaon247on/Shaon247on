@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Cover" />
 </div>
-<h2 align="center">🚀 About Me <br/> <br/>Hi 👋, I'm Md. Aminul Islam Shaon</h1>
+<h2 align="center">🚀 About Me <br/> <br/>Hi 👋, I'm Md. Aminul Islam Shaon <br/> aminul007.ais@gmail.com</h1>
 
 <h3 align="center">Full-Stack Web Developer | Proficient in HTML, CSS, JavaScript, Tailwind, React, Nexxt.js, Shadcn, Prisma, MongoDB, Express, and Node.js</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
