@@ -24,11 +24,54 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
- <img src="https://i.pinimg.com/736x/42/cd/25/42cd25501a390eb118a803cd5a651414.jpg" alt="shadcn" width="40" height="40"/> </a> <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
-   <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-     <img src="https://i.pinimg.com/736x/db/6c/7e/db6c7efc8b743df5da9bb4a2f9605c73.jpg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
-</p>
+
+<div align="left"> 
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="padding-left: 20px;/> 
+ </a> 
+ 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="padding-left: 20px;/> 
+ </a> 
+
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="padding-left: 20px;/> 
+ </a> 
+
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="padding-left: 20px;/> 
+ </a> 
+ 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="padding-left: 20px;/> 
+ </a>
+
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer" style="padding-left: 20px;">
+   <img src="https://i.pinimg.com/736x/32/9a/d8/329ad85f4ab2047cae13d582274f9270.jpg" alt="next.js" width="40" height="40" style="padding-left: 20px;/> 
+ </a> 
+ 
+ <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" style="padding-left: 20px;">
+ <img src="https://i.pinimg.com/736x/42/cd/25/42cd25501a390eb118a803cd5a651414.jpg" alt="shadcn" width="40" height="40" style="padding-left: 20px;/> 
+ </a> 
+
+ <a href="https://nodejs.org" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="padding-left: 20px;/> 
+ </a> 
+
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="padding-left: 20px;/> 
+ </a>    
+ 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="padding-left: 20px;"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="padding-left: 20px;/> 
+ </a> 
+ 
+ <a href="https://www.prisma.io" target="_blank" rel="noreferrer" style="padding-left: 20px;">
+     <img src="https://i.pinimg.com/736x/db/6c/7e/db6c7efc8b743df5da9bb4a2f9605c73.jpg" alt="Prisma" width="40" height="40" style="padding-left: 20px;/> 
+   </a> 
+   
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaon247on&show_icons=true&locale=en&layout=compact" alt="shaon247on" /></p>
