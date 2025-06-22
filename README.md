@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaon247on&label=Profile%20views&color=0e75b6&style=flat" alt="shaon247on" /> </p>
 
-- 🔭 I’m currently working on [Victory-Vault-A12](https://github.com/Shaon247on/Victory-Vault-A12)
+- 🔭 I’m currently working on [Restora](https://github.com/Shaon247on/Restora-App/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Framer-Motion**
 
-- 💬 Ask me about **Tailwind, React & MongoDB**
+- 💬 Ask me about **Tailwind, React & MongoDB, Next.js**
 
 - 📫 How to reach me **aminul007.ais@gmail.com**
 
